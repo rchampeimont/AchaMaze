@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project default="javadoc">
+  <target name="javadoc">
+    <javadoc destdir="doc" access="public" source="1.6" use="true" notree="false" nonavbar="false" noindex="false" splitindex="true" author="true" version="true" nodeprecatedlist="false" nodeprecated="false" packagenames="achamaze" sourcepath="src" classpath="."/>
+  </target>
+</project>
