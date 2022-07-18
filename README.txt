@@ -6,3 +6,6 @@ You can build it using either:
 Then, to run it do:
 cd bin
 java org.almacha.achamaze.AchaMaze
+
+To rebuild the javadoc:
+javadoc org.almacha.achamaze -sourcepath src -d doc
