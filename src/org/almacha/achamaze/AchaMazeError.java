@@ -2,7 +2,7 @@ package org.almacha.achamaze;
 
 /**
  * A class for AchaMaze errors.
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public class AchaMazeError extends Error {

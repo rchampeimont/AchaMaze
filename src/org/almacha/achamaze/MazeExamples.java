@@ -2,7 +2,7 @@ package org.almacha.achamaze;
 
 /**
  * Maze examples.
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public class MazeExamples {

@@ -2,7 +2,7 @@ package org.almacha.achamaze;
 
 /**
  * An exception raised when a reference is made to a cell that does not exist.
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public class CellDoesNotExistException extends AchaMazeException {

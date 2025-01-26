@@ -6,7 +6,7 @@ import java.awt.Dimension;
 
 /**
  * This class enables you to display a maze (class Maze) on the screen.
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public class DrawMaze {

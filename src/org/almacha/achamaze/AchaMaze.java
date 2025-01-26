@@ -2,7 +2,7 @@ package org.almacha.achamaze;
 
 /**
  * The class of the main program.
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public class AchaMaze {

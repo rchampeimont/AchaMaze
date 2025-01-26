@@ -2,7 +2,7 @@ package org.almacha.achamaze;
 
 /**
  * A class for AchaMaze exceptions.
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public class AchaMazeException extends Exception {

@@ -2,7 +2,7 @@ package org.almacha.achamaze;
 
 /**
  * Represents a direction (North, East, South, West).
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public enum Direction {

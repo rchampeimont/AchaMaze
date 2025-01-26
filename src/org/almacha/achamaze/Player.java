@@ -4,7 +4,7 @@ package org.almacha.achamaze;
  * This class represents a player that is in the maze.
  * You cannot create directly an object of this class, instead you have to use the
  * addPlayer() method from the Maze class.
- * @author Raphael Champeimont
+ * @author River Champeimont
  *
  */
 public class Player {

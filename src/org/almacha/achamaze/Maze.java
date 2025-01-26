@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /** 
  * This class represents a maze.
- * @author Raphael Champeimont
+ * @author River Champeimont
  */
 public class Maze {
 	private Cell[][] maze;
